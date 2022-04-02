@@ -26,7 +26,7 @@
 
 1.1、安装v4_bot (x86) 一键命令（2）
 
-    wget -q https://raw.githubusercontent.com/wpf900/wpf/main/jd-docker.sh -O jd-docker.sh && chmod +x jd-docker.sh && ./jd-docker.sh
+    wget -q https://raw.githubusercontent.com/wpf900/main/jd-docker.sh -O jd-docker.sh && chmod +x jd-docker.sh && ./jd-docker.sh
 
 
 2、安装v4_bot (arm64) 一键命令（1）
