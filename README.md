@@ -26,7 +26,7 @@
 
 1.1、安装v4_bot (x86) 一键命令（2）
 
-    wget -q https://raw.githubusercontent.com/Annyoo2021/jd_v4_bot/main/jd-docker.sh -O jd-docker.sh && chmod +x jd-docker.sh && ./jd-docker.sh
+    wget -q https://raw.githubusercontent.com/wpf900/wpf/main/jd-docker.sh -O jd-docker.sh && chmod +x jd-docker.sh && ./jd-docker.sh
 
 
 2、安装v4_bot (arm64) 一键命令（1）
@@ -52,7 +52,7 @@
 
 2.1、安装v4_bot (arm64) 一键命令（2）
 
-    wget -q https://raw.githubusercontent.com/Annyoo2021/jd_v4_bot/main/jd-docker_0.sh -O jd-docker_0.sh && chmod +x jd-docker_0.sh && ./jd-docker_0.sh
+    wget -q https://raw.githubusercontent.com/wpf900/jd_v4_bot/main/jd-docker_0.sh -O jd-docker_0.sh && chmod +x jd-docker_0.sh && ./jd-docker_0.sh
 
    
 3、进入容器，默认容器名jd_v4_bot，如做了修改，按实际修改命令。
@@ -67,7 +67,7 @@
    
    （强烈建议：仅本地使用面板。）
  
-    wget -q https://raw.githubusercontent.com/Annyoo2021/jd_v4_bot/main/v4mb.sh -O v4mb.sh && chmod +x v4mb.sh && ./v4mb.sh
+    wget -q https://raw.githubusercontent.com/wpf900/jd_v4_bot/main/v4mb.sh -O v4mb.sh && chmod +x v4mb.sh && ./v4mb.sh
 
 
 
